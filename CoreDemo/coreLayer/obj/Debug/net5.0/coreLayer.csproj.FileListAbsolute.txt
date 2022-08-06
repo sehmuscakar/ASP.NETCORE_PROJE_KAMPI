@@ -1,0 +1,12 @@
+C:\Users\scaka\OneDrive\Masaüstü\.Net (WEP)\CoreDemo\coreLayer\bin\Debug\net5.0\coreLayer.deps.json
+C:\Users\scaka\OneDrive\Masaüstü\.Net (WEP)\CoreDemo\coreLayer\bin\Debug\net5.0\coreLayer.dll
+C:\Users\scaka\OneDrive\Masaüstü\.Net (WEP)\CoreDemo\coreLayer\bin\Debug\net5.0\ref\coreLayer.dll
+C:\Users\scaka\OneDrive\Masaüstü\.Net (WEP)\CoreDemo\coreLayer\bin\Debug\net5.0\coreLayer.pdb
+C:\Users\scaka\OneDrive\Masaüstü\.Net (WEP)\CoreDemo\coreLayer\obj\Debug\net5.0\coreLayer.csproj.AssemblyReference.cache
+C:\Users\scaka\OneDrive\Masaüstü\.Net (WEP)\CoreDemo\coreLayer\obj\Debug\net5.0\coreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scaka\OneDrive\Masaüstü\.Net (WEP)\CoreDemo\coreLayer\obj\Debug\net5.0\coreLayer.AssemblyInfoInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\.Net (WEP)\CoreDemo\coreLayer\obj\Debug\net5.0\coreLayer.AssemblyInfo.cs
+C:\Users\scaka\OneDrive\Masaüstü\.Net (WEP)\CoreDemo\coreLayer\obj\Debug\net5.0\coreLayer.csproj.CoreCompileInputs.cache
+C:\Users\scaka\OneDrive\Masaüstü\.Net (WEP)\CoreDemo\coreLayer\obj\Debug\net5.0\coreLayer.dll
+C:\Users\scaka\OneDrive\Masaüstü\.Net (WEP)\CoreDemo\coreLayer\obj\Debug\net5.0\ref\coreLayer.dll
+C:\Users\scaka\OneDrive\Masaüstü\.Net (WEP)\CoreDemo\coreLayer\obj\Debug\net5.0\coreLayer.pdb

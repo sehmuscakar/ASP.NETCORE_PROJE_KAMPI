@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\scaka\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\scaka\\.nuget\\packages"
+    ]
+  }
+}
